@@ -1,11 +1,12 @@
-# Quant Queen Protocol (QQB)
+# QuantQueen Protocol
+<div align=center>
+<img src="https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/logo.png"
+</div>
 
-QQB is a crypto native token backed by NAV (Net Asset Value)  that represents shares in a quantitative asset portfolio. It combines a protocolized NAV mint/burn cycle, on-chain transparency and verifiability, and free secondary trading on DEXs/CEXs into a single asset. It is designed for users and developers who want to obtain returns with risk exposure while still retaining liquidity and composability.
+QuantQueen Protocol is a crypto native token backed by NAV (Net Asset Value)  that represents shares in a quantitative asset portfolio. It combines a protocolized NAV mint/burn cycle, on-chain transparency and verifiability, and free secondary trading on DEXs/CEXs into a single asset. It is designed for users and developers who want to obtain returns with risk exposure while still retaining liquidity and composability.
 
 This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle interface specifications, risk disclosure standards, and integration tooling, helping ecosystem partners quickly implement issuance, trading, minting, burn, verification, data indexing, and secondary financial applications.
 
-
----
 
 ## Contributors
 
@@ -15,7 +16,7 @@ Frank Liu @ Matrixport  | Alfred Liu @ Binance  | Mirror Tang @ ZEROBASE
 
 ## 1. Design & Usability
 
-![Quant Queen Protocal Model](picture/Product Model.png)
+![image](https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/Product%20Model.png)
 
 ### User Experience
 
@@ -52,7 +53,7 @@ Frank Liu @ Matrixport  | Alfred Liu @ Binance  | Mirror Tang @ ZEROBASE
 ---
 
 ## 2. Scalability
-
+![image](https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/Risk%20Model.png)
 ### Strengths
 
 - **Scale-friendly**  
