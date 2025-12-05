@@ -10,7 +10,7 @@ QuantQueen Protocol is a crypto native token backed by NAV (Net Asset Value)  th
 This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle interface specifications, risk disclosure standards, and integration tooling, helping ecosystem partners quickly implement issuance, trading, minting, burn, verification, data indexing, and secondary financial applications.
 
 
-### Contributors: <img src="https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/matrixport.png" alt="logo" width="20" /> frank.liu@Matrixport <img src="https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/binance.png" alt="logo" width="20" /> alfred.liu@Binance  <img src="https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/zerobase.jpeg" alt="logo" width="20" /> mirror.tang@ZEROBASE  
+### Contributors: <img src="https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/matrixport.png" alt="logo" width="20" /> frank.liu@Matrixport <img src="https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/binance.png" alt="logo" width="20" /> | alfred.liu@Binance  <img src="https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/zerobase.jpeg" alt="logo" width="20" /> | mirror.tang@ZEROBASE  
 
 
 ## 1. Design & Usability
