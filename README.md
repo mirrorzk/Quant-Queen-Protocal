@@ -1,7 +1,7 @@
 # QuantQueen Protocol
 
 <p align="center">
-  <img src="https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/logo.png" alt="logo" width="300" />
+  <img src="https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/logo.png" alt="logo" width="500" />
 </p>
 
 
