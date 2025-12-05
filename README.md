@@ -9,15 +9,15 @@ This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle
 
 ## Contributors
 
-- Frank Liu @ Matrixport  
-- Alfred Liu @ Binance  
-- Mirror Tang @ ZEROBASE  
+Frank Liu @ Matrixport  | Alfred Liu @ Binance  | Mirror Tang @ ZEROBASE  
 
 ---
 
 ## 1. Design & Usability
 
-### 1.1 User Experience
+![QQB Architecture](picture/Product Model.png)
+
+### User Experience
 
 - **Minting**  
   Users mint QQB based on the monthly NAV price.
@@ -29,7 +29,7 @@ This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle
   Once minted, QQB enters free circulation and can be traded on-chain or on CEXs, combining the properties of an asset backed by NAV with those of a liquid trading asset.
 
 
-### 1.2 Developer Experience
+### Developer Experience
 
 - **Contract interfaces**  
   Core behaviors such as `mint`, `burn`, `fee routing`, and `NAV updates` are clearly defined with transparent state machines and boundary conditions.
@@ -41,7 +41,7 @@ This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle
 - **Docs and examples**  
   Includes interaction guides, burn fee examples, NAV data structures, and event indexing notes to lower integration friction.
 
-### 1.3 Expansion Potential
+### Expansion Potential
 
 - **Visual usability**  
   A reference dashboard is provided (NAV curve, drawdown ranges, risk metric, burn outcome simulator).
@@ -53,7 +53,7 @@ This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle
 
 ## 2. Scalability
 
-### 2.1 Strengths
+### Strengths
 
 - **Scale-friendly**  
   Supply expands and contracts dynamically with minting and burning, while pricing is anchored to NAV, making the structure suitable for AUM growth and long-term operation.
@@ -64,7 +64,7 @@ This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle
 - **Multi-strategy capacity**  
    Within a unified risk budget and disclosure standard, more strategy modules can be introduced to diversify and stabilize return sources.
 
-### 2.2 Expansion Potential
+### Expansion Potential
 
 - **Higher-frequency NAV publication**  
   Evolve from monthly to weekly/daily NAV disclosure as scale grows, better matching market expectations for transparency and risk management.
@@ -79,7 +79,7 @@ This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle
 
 ## 3. Innovation
 
-### 3.1 Strengths
+### Strengths
 
 - **New asset paradigm**  
   Combines token backed by NAV with the tradability and composability of tokens, improving efficiency across both primary and secondary markets.
@@ -97,7 +97,7 @@ This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle
   Moves beyond simply publishing a NAV number toward verifiable NAV methodology and disclosure standards, laying the groundwork for institutional-grade trust.
 
 
-### 3.2 Expansion Potential
+### Expansion Potential
 
 - **Proof-ready NAV**  
   Introduce zero-knowledge proofs, trusted execution environments, and audit attestations to prove the correctness of risk constraints and NAV methodology without revealing sensitive trading details.
@@ -110,7 +110,7 @@ This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle
 
 ## 4. Integration & Composability
 
-### 4.1 Core Integrations
+### Core Integrations
 
 - **DEX/CEX dual presence**  
   QQB can trade freely on-chain while also integrating into CEX trading systems, with the mint/burn mechanism remaining verifiable and disciplined.
@@ -123,7 +123,7 @@ This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle
   QQB can serve as collateral, margin, or a yield-bearing base asset, extending into lending, derivatives, and structured products.
 
 
-### 4.2 Expansion Potential
+### Expansion Potential
 
 - **Standardized integration kits**  
   Provide SDKs (TypeScript/Python), subgraph/indexer templates, trading-pair initialization scripts, and risk parameter recommendations.
