@@ -1,6 +1,6 @@
 # QuantQueen Protocol
 
-![image](https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/picture/QQB%20UI_1.png)
+![image](https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/picture/qqb_ui_1.png)
 
 QuantQueen Protocol is a crypto native token backed by NAV (Net Asset Value)  that represents shares in a quantitative asset portfolio. It combines a protocolized NAV mint/burn cycle, on-chain transparency and verifiability, and free secondary trading on DEXs/CEXs into a single asset. It is designed for users and developers who want to obtain returns with risk exposure while still retaining liquidity and composability.
 
