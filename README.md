@@ -6,7 +6,7 @@ QuantQueen Protocol is a crypto native token backed by NAV (Net Asset Value)  th
 
 This repo opens sources and maintains QQB’s core protocol contracts, NAV Oracle interface specifications, risk disclosure standards, and integration tooling, helping ecosystem partners quickly implement issuance, trading, minting, burn, verification, data indexing, and secondary financial applications.
 
-### Enter to Quant Queen Protocol | Buy QQB  |  Revenue Analysis  |  Raw Strategy Data
+### Enter to [Quant Queen Protocol](https://quantqueen.to/) | [Buy QQB](https://pancakeswap.finance/swap?outputCurrency=0xDBE2c424cEc25999028b0ef4adEaAaF80B56BAbd&chain=bsc&inputCurrency=0x55d398326f99059fF775485246999027B3197955)  |  [Factsheet](https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/data/Factsheet.pdf)  |  [Strategy Data](https://github.com/mirrorzk/Quant-Queen-Protocol/blob/master/data/nav.csv)
 
 
 
